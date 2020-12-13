@@ -1,0 +1,210 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+
+}
+
+.line-1 {
+	height: 10px;
+	background-color: #ffd800;
+	margin-top: -20px;
+}
+.header-image {
+	background-image: url(img/1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+.icon ul {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.icon ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+.icon ul li a {
+	display: block;
+	color: #ffffff;
+	padding: 10px;
+	text-transform: uppercase;
+}
+
+.header-text {
+	color: white;
+	text-align: center;
+	margin-top: 120px;
+}
+
+.btnn {
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 250px;
+
+}
+
+.content-1 {
+	background-color: #191b29;
+	height: 400px;
+}
+
+.print {
+	margin-top: 30px;
+}
+
+.print i {
+	color: #ffd800;
+	font-size: 40px;
+}
+
+.print h4 {
+	color: #ffffff;
+	margin-left: 60px;
+	margin-top: -40px;
+}
+
+.print p {
+	color: #ffffff;
+	margin-top: 30px;
+	
+}
+
+.phone img {
+	margin-top: -50px;
+	margin-left: 80px;
+}
+
+.mobile {
+	margin-top: 30px;
+}
+
+.mobile i {
+	color: #ffd800;
+	font-size: 40px;
+}
+
+.mobile h4 {
+	color: #ffffff;
+	margin-left: 60px;
+	margin-top: -40px;
+}
+
+.mobile p {
+	color: #ffffff;
+	margin-top: 30px;
+	
+}
+
+.content-2 {
+	margin-top: -150px;
+}
+
+.content-3 {
+	background-color: #ffd800;
+	height: 600px;
+	
+}
+
+.text-1 h1 {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.text-1 h4 {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+.charli {
+	text-align: center;
+}
+
+.charli h4 {
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+.content-4 {
+	background-color: #ffe347;
+	height: 200px;
+}
+
+.app-1 h3 {
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+.content-5 {
+	background-color: #ffffff;
+	
+}
+
+.app-2 h3 {
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+.laptop {
+	margin-left: 723px;
+	margin-top: -350px;
+}
+
+.content-6 {
+	background-image: url(img/8.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+	color: #f7ebeb;
+}
+
+.text-2 h1 {
+	margin-top: 100px;
+	text-align: center;
+}
+
+
+.text-2 h4 {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+.joe {
+	text-align: center;
+}
+
+.joe h4 {
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+
+.joe i {
+	color: #ffd800;
+	font-size: 60px;
+}
+
+.content-6 a {
+	margin-left: 470px;
+	font-weight: bold;
+}
+
+.content-7 {
+	background-color: #191b29;
+	color: #f7ebeb;
+	text-align: center;
+}
+
+.toha {
+	margin-top: 100px;
+	width: 50%;
+	margin-bottom: 100px;
+}
